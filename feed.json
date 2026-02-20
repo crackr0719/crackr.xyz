@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "crackr.org",
+    "description": "",
+    "home_page_url": "https://crackr0719.github.io/Crackrs-Personal-Website",
+    "feed_url": "https://crackr0719.github.io/Crackrs-Personal-Website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "crackr"
+    },
+    "items": [
+    ]
+}
